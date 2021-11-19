@@ -1,0 +1,5 @@
+package various
+
+func TestingVanityUrl() {
+
+}
